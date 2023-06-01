@@ -1,0 +1,3 @@
+tech.tryu.springspi.StreamSPI=\
+tech.tryu.springspi.TextStream,\
+tech.tryu.springspi.VideoStream
